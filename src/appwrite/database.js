@@ -72,3 +72,5 @@ class Service {
         }
     }
 }
+const DatabaseService = new Service();
+export default DatabaseService;
